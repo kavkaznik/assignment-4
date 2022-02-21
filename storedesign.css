@@ -1,0 +1,64 @@
+form {width: 400px;}
+#excc {left: 20px;}
+form#asd{position: absolute; top: 312px;
+	left: 500px;}
+form#asdd{position: absolute; top: 561px;
+	left: 500px;}
+form#aasdd{position: absolute; top: 561px;
+	left: 1000px;}
+form#aassdd{position: absolute; top: 312px;
+	left: 1000px;}
+#bgMain {background: rgba(0, 255, 0, 0.3);}
+#topForm{
+	color: rgb(255, 250, 250);
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background: rgb(0, 0, 0);
+	height: 160px;
+	width: 100%;
+}
+#topbt{
+	position: absolute	;
+	bottom: 0px;
+	background: rgb(0, 250, 0);
+	width: 100%;
+	height: 62px;
+}
+.tabs a{
+float: left;
+  color: black;
+  text-align: center;
+  padding: 10px 50px;
+  text-decoration:  none;
+  font-size: 27px;
+}
+#filterLbl{cursor: pointer;}
+.fltr {position: absolute;
+	top: 160px;
+	width: 250px;
+	background: rgb(255, 255, 153);}
+#filters{
+	display: none;
+	top: 180px;
+}
+#bigLabel {
+  color: rgb(0, 200, 0);
+  font-family:  "Copperplate", monospace;
+  font-size: 60px;
+position: absolute;
+left: 600px;}
+.excc{
+	position: absolute;
+
+}
+.exccImg{
+	width: 200px;
+	height: 120px;
+}
+#vdc1{top: 200px; left: 400px;}
+#vdc2{top: 500px; left: 400px;}
+#vdc3{top: 200px; left: 700px;}
+#vdc4{top: 500px; left: 700px;}
+#vdc5{top: 200px; left: 1000px;}
+#vdc6{top: 500px; left: 1000px;}

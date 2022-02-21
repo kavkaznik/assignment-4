@@ -1,0 +1,34 @@
+﻿
+body, html {
+  height: 100%;
+  background: rgb(0, 90, 0);
+}
+ #bgbg{
+  margin-left: 0px;
+  background-image:url( "sskin.jpg");
+  height: 100%;
+  position: center
+  b
+  background-repeat: repeat;
+  background-size: cover;
+}
+ button {position: absolute;
+  left: 0px;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  top: 35%;
+}
+button:hover {
+  opacity:1;
+}
+
+#namee {position: absolute; left: 10px; height: 50px;top: 10px;}
+#vers {position: absolute; left: 400px; height: 50px; top: 10px}
+#addr {position: absolute; left: 10px; height: 50px; top: 80px;}
+#inf {position: absolute; left: 400px; height: 50px; top: 80px;}
