@@ -1,6 +1,9 @@
 
 body, html {
   height: 100%;
+  object-fit: cover;
+  width: 100%;
+  overflow: hidden;
 }
 
  #bgbg{
@@ -22,3 +25,25 @@ position: center;
   width: 100%;
   opacity: 0.9;
 } 
+input {
+  width: 230px;
+  height: 30px;
+  
+  border: none;
+  
+}
+#odin{
+  position: absolute;
+  left: 600px;
+  top: 100px ;
+}
+#dva{
+  position: absolute;
+  left: 600px;
+  top: 150px ;
+}
+#tri{
+  position: absolute;
+  left: 600px;
+  top: 200px ;
+}
