@@ -11,12 +11,12 @@ function toLogin() {
 function login() {
   if (document.getElementById('loginInput').value != "Login" || document.getElementById('loginPassword').value != "Password"  ){alert("Wrong Login or Password!");}
   if (document.getElementById('loginInput').value == "Login" || document.getElementById('loginPassword').value == "Password" ){
-  window.open("file:///C:/Users/A2Life/Desktop/%D0%A2%D0%B2%D0%BE%D0%B9%20%D0%9F%D0%B0%D0%BF%D0%BA%D0%B0/2%20%D1%82%D1%80%D0%B8%D0%BC%D0%B5%D1%81%D1%82%D1%80/%D0%B2%D0%B5%D0%B1%D0%BA%D0%B0/project_website/store.html");
+  window.open("store.html");
 }}
 function register() {
   if (document.getElementById('regLogin').value == "" || document.getElementById('regPassword').value == "" || document.getElementById('regPassword2').value == ""){alert("Please fill all blanks");}
 if (document.getElementById('regLogin').value != "" && document.getElementById('regPassword').value != "" && document.getElementById('regPassword2').value != ""){
-  if (document.getElementById('regPassword').value == document.getElementById('regPassword2').value ){window.open("file:///C:/Users/A2Life/Desktop/%D0%A2%D0%B2%D0%BE%D0%B9%20%D0%9F%D0%B0%D0%BF%D0%BA%D0%B0/2%20%D1%82%D1%80%D0%B8%D0%BC%D0%B5%D1%81%D1%82%D1%80/%D0%B2%D0%B5%D0%B1%D0%BA%D0%B0/project_website/store.html");}
+  if (document.getElementById('regPassword').value == document.getElementById('regPassword2').value ){window.open("store.html");}
   if (document.getElementById('regPassword').value != document.getElementById('regPassword2').value ){alert("You have different passwords");}
 }
 }
