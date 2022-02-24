@@ -8,7 +8,7 @@ form#aasdd{position: absolute; top: 561px;
 	left: 1000px;}
 form#aassdd{position: absolute; top: 312px;
 	left: 1000px;}
-#bgMain {background: rgba(0, 255, 0, 0.3);}
+#bgMain {background: rgba(0, 255, 0, 0);}
 #topForm{
 	color: rgb(255, 250, 250);
 	position: fixed;
@@ -56,9 +56,9 @@ left: 600px;}
 	width: 200px;
 	height: 120px;
 }
-#vdc1{top: 200px; left: 400px;}
-#vdc2{top: 500px; left: 400px;}
-#vdc3{top: 200px; left: 700px;}
-#vdc4{top: 500px; left: 700px;}
-#vdc5{top: 200px; left: 1000px;}
-#vdc6{top: 500px; left: 1000px;}
+#vdc1{top: 200px; left: 300px;}
+#vdc2{top: 500px; left: 300px;}
+#vdc3{top: 200px; left: 600px;}
+#vdc4{top: 500px; left: 600px;}
+#vdc5{top: 200px; left: 900px;}
+#vdc6{top: 200px; left: 1200px;}
